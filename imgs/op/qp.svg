@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="76.994164mm"
+   height="42.465832mm"
+   viewBox="0 0 76.994164 42.465832"
+   version="1.1"
+   id="svg45793"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="qp.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview45795"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.6532575"
+     inkscape:cx="-18.656312"
+     inkscape:cy="47.677242"
+     inkscape:window-width="2560"
+     inkscape:window-height="1373"
+     inkscape:window-x="2551"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g44410" />
+  <defs
+     id="defs45790" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-46.400354,-63.66452)">
+    <g
+       id="g43253"
+       inkscape:label="QP SW"
+       transform="translate(25.366188,-10.286316)"
+       style="display:inline">
+      <g
+         id="g44410"
+         inkscape:label="color"
+         transform="matrix(1.0038113,0,0,1.0604845,-0.17502175,-4.6326677)">
+        <path
+           style="display:inline;fill:#617dc2;fill-opacity:1;fill-rule:evenodd;stroke:#617dc2;stroke-width:0.39124;stroke-linecap:round;stroke-miterlimit:3.8;stroke-dasharray:none;stroke-opacity:0.968182;paint-order:markers stroke fill;stop-color:#000000"
+           d="m 80.664063,309.76563 v -14.0625 h 91.341467 c 50.23781,0 115.10109,0.11697 144.14063,0.25993 l 52.79915,0.25994 v 13.80256 13.80257 H 224.80469 80.664063 Z"
+           id="path44265"
+           transform="matrix(0.26458333,0,0,0.26458333,1.065433e-6,-3.96875)" />
+      </g>
+      <rect
+         style="fill:none;fill-opacity:0.698039;fill-rule:evenodd;stroke:#131313;stroke-width:0.239777;stroke-linecap:round;stroke-miterlimit:3.8;stroke-dasharray:none;stroke-opacity:0.968182;paint-order:markers stroke fill;stop-color:#000000"
+         id="rect42924"
+         width="76.754387"
+         height="42.226055"
+         x="21.154055"
+         y="74.070724" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
+         d="m 21.166666,82.020832 h 76.729166 v 0 0 0 0"
+         id="path43084" />
+      <rect
+         style="fill:none;fill-opacity:0.698039;fill-rule:evenodd;stroke:#131313;stroke-width:0.264999;stroke-linecap:round;stroke-miterlimit:3.8;stroke-dasharray:none;stroke-opacity:0.968182;paint-order:markers stroke fill;stop-color:#000000"
+         id="rect43086"
+         width="71.4375"
+         height="6.614583"
+         x="23.8125"
+         y="84.666664" />
+      <rect
+         style="fill:none;fill-opacity:0.698039;fill-rule:evenodd;stroke:#131313;stroke-width:0.212655;stroke-linecap:round;stroke-miterlimit:3.8;stroke-dasharray:none;stroke-opacity:0.968182;paint-order:markers stroke fill;stop-color:#000000"
+         id="rect43088"
+         width="71.489845"
+         height="14.471925"
+         x="23.786327"
+         y="97.869667" />
+      <g
+         id="g44052"
+         inkscape:label="Textstuff"
+         style="display:inline">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="59.53125"
+           y="79.375"
+           id="text43098"><tspan
+             sodipodi:role="line"
+             id="tspan43096"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.264583"
+             x="59.53125"
+             y="79.375">Quadratic optmization problem</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="48.160366"
+           y="89.228661"
+           id="text43102"><tspan
+             sodipodi:role="line"
+             id="tspan43100"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.264583"
+             x="48.160366"
+             y="89.228661">Maximize social welfare</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:'Stafford Pro';-inkscape-font-specification:'Stafford Pro';text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="33.337498"
+           y="96.308334"
+           id="text43106"><tspan
+             sodipodi:role="line"
+             id="tspan43104"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.264583"
+             x="33.337498"
+             y="96.308334">subject to:</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;stroke-width:0.264583"
+           x="28.97191"
+           y="103.758"
+           id="text43102-4"><tspan
+             id="tspan43100-7"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="28.97191"
+             y="103.758"
+             sodipodi:role="line">All supplier agent models</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="28.97191"
+             y="109.04967"
+             sodipodi:role="line"
+             id="tspan43135">Market energy balance</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
