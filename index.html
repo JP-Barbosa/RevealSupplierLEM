@@ -1,0 +1,379 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>Barbosa2023_Game</title>
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/simple.css">
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+		<link rel="stylesheet" href="my.css">
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section>
+					
+					<header style="text-align:center; border: 0px solid black">
+					<div class="column", style="text-align: center; width: 24%;">
+					<img src="imgs/tuda_logo.svg" height="100" width="80%" >
+					</div>
+					<div class="column" , style="width: 50%;">
+					<div class = "small-text", style="color: rgb(145, 145, 145) ;" >
+					9th International Conference on Smart Energy Systems
+					<br>
+					12-13 September 2023
+					<br>
+					Copenhagen, Denmark
+					<br>
+					#SESAAU2023
+					</div>
+					</div>
+					<div class="column"; style="width: 24%;">
+						<img src="imgs/logos/bmwk_logo_de.svg" height="120" >
+					</div>
+					</header>
+
+				<br>
+				<br>
+				<hTitle>Game-Theoritic Analysis of 
+					Suppliers' 
+					<br>
+					Market Power in
+					<br>
+					Local Multi-Energy Markets</hTitle>
+				<hNameBox> <strong> Júlia Barbosa</strong>, Florian Döllinger, Florian Steinke</hNameBox>
+				
+	
+				</section>
+
+				<section>
+
+					<hTitle>Introduction</hTitle>
+					<section>
+						<p>
+							<b>Local Energy Markets</b> (LEMs) are a promising approach to integrating renewable energy resources:
+						</p>
+							<ul class="fragment" data-fragment-index="0" style="font-size: 14pt;text-align: left; align-items: left; width: 80%;">
+								<li>Electricity LEMs can help alleviate grid bottlenecks [1] </li>
+								<li>LEMs reduce barriers to entry of small players [2]</li>
+								<li>Mitigates resistance to new RE projects closeby [3]</li>
+							</ul>
+
+						<div class ="r-stack" style="border: 0pt solid black; height: 300px;">
+							<img class="fragment fade-in-then-out cropped-image-clip-polygon" data-fragment-index="1"  data-src="imgs/intro_partI.png">
+							<img class="fragment cropped-image-clip-polygon"  data-src="imgs/intro_partII.png">
+						</div>
+						<div>
+							<p class="fragment" data-fragment-index="1">
+								<b>Thermo-electric </b> LEM.
+							</p>
+						</div>
+						<aside class="footnotes fragment" data-fragment-index="0">
+							[1] Dudjak et al. (2021) Impact of local energy markets integration in power systems layer: A comprehensive review. Applied Energy.
+							<br>
+							[2] Klement et al. (2022) Local Energy Markets in Action: Smart Integration of National Markets, Distributed Energy Resources and Incentivisation to Promote Citizen Participation. Energies.
+							<br>
+							[3] Hvelplund et al. (2006) Renewable energy and the need for local energy markets. Energy.
+							 
+					</aside>
+					</section>
+
+					<section>
+						<p class="l">
+							Thermal-Electric LEM Design studies often solve the market clearing as a <b>social-welfare maximization</b> ([4-5])
+						</p>
+						<p class="l fragment"> 
+							Perfect competition assumption is questionable:
+						</p>
+							<ul class="fragment" style="font-size: 14pt;align-items: left; width: 90%;">
+								<li>Small number of agents</li>
+								<li>Much larger electricity market already suffered from market power abuse (<a href="https://en.wikipedia.org/wiki/2000%E2%80%9301_California_electricity_crisis">California energy crisis 2000</a>)</li>
+							</ul>
+						<p class="l fragment">	
+						Which leads to the question:
+						</p>
+						<h7 class="fragment"
+						 style="text-align: center; border: 2px solid black; padding: 20px; background-color: #90a2cf ; font-size: xx-large; margin: 50px 0px 50px 0px;">
+							How does imperfect competition affect thermo-electric LEMs and how it may be mitigated?
+						</h7>
+
+					<aside class="footnotes">
+						[4] Brolin et al. (2020) Design of a local energy market with multiple energy carriers. International Journal of Electrical Power & Energy Systems.
+						<br>
+						[5] Huynh et al. (2022) Local energy markets for thermal-electric energy systems considering energy carrier dependency and energy storage systems. Smart Energy.
+					</aside>
+					</section>
+					
+				</section>	
+						
+				<section>
+					<htitle>Methodology</htitle>
+					<section>
+
+							<hsTitle>Energy consumption model</hsTitle>
+							<p class ="l">
+							Consumers are assumed price-takers with a quadratic utility function.
+							</p>
+
+							<hstitle class="fragment" data-fragment-index="0" style="border:0px solid black; margin:0px">
+								Supplier Agent Model</hstitle>
+							
+							<doublecolslide style="margin: 0px; border: 0px solid black;padding: 0px;">
+								<div class="c1">
+								<p class="fragment" data-fragment-index="1">
+									<b>Generation: </b>Supply of a commodity from some energy form for which no LEM exists.
+								</p>
+								<p class="fragment" data-fragment-index="2">
+									<b>Storage:</b> Storage energy and retrieving at a later time.
+								</p>
+								<p class="fragment" data-fragment-index="3">
+									<b>Conversion</b> The transformation between two energy commodities for which a LEM exists.
+								</p>
+								<div width="100%" style="align-items: center;">
+									<img class="fragment fade-in-then-semi-out" data-fragment-index="4" src="imgs/chp.svg" width="12%" >
+									<img class="fragment fade-in-then-semi-out" data-fragment-index="5" src="imgs/battery.svg" width="12%" >
+									<img class="fragment fade-in-then-semi-out" data-fragment-index="6" src="imgs/hp.svg" width="12%" >
+									<img class="fragment fade-in-then-semi-out" data-fragment-index="7" src="imgs/hob.svg" width="12%" >
+									<img class="fragment fade-in-then-semi-out" data-fragment-index="7" src="imgs/gasPP.svg" width="12%" >
+									<img class="fragment fade-in-then-semi-out" data-fragment-index="7" src="imgs/hs.svg" width="12%" >
+									<img class="fragment fade-in-then-semi-out" data-fragment-index="7" src="imgs/pv.svg" width="12%" >
+								</div>
+
+
+								
+								<!--
+
+								<p class="fragment" data-fragment-index="4">
+									<b>Internal Energy Balance:</b> 
+									<div class="fragment" 
+									data-fragment-index="4"
+									style="font-size: 10.5pt;">
+										\[     P^{M}_{a,c,t} = \;  P^{G}_{a,c,t} +  P^{S,C}_{a,c,t} - P^{S,D}_{a,c,t}  
+										+\sum_{p(a,c,co)}P^{T,out}_{p,t} - \sum_{p(a, c, co)}P^{T,in}_{p,t} \]
+									</div>
+								</p>
+							-->
+							</div>
+							<div class="c1 r-stack">
+								<img class="fragment"
+								data-fragment-index="0" src="imgs/gam/GAM_Empty.svg" width="100%" >
+								<img class="fragment" data-fragment-index="1" src="imgs/gam/GAM_GEN.svg" width="100%" >
+								<img class="fragment" data-fragment-index="2" src="imgs/gam/GAM_STR.svg" width="100%" >
+								<img class="fragment" data-fragment-index="3" src="imgs/gam/GAM.svg" width="100%" >
+								<img class="fragment" src="imgs/gam/CHP.svg" data-fragment-index="4" width="100%" >
+								<img class="fragment" src="imgs/gam/BATTERY.svg" data-fragment-index="5" width="100%" >
+								<img class="fragment" src="imgs/gam/HP.svg"  data-fragment-index="6" width="100%" >
+								<img class="fragment" src="imgs/gam/GAM.svg" data-fragment-index="8" width="100%" >
+								
+							</div>
+						</doublecolslide>
+					</section>
+					
+						
+						<section>
+					<doublecolslide>
+					<div class="c1"; style="width: 60%;">
+						<hstitle>Perfect Competition </hstitle>
+						<p> All agents are price-takers and the market outcome maximizes the social welfare. </p>
+					</div>
+					<div class="c1"; style="align-items: right;">
+						<img src="imgs/op/qp.svg" width="65%" style="border: 0pt solid black;padding: 80px 0px 0px 10px;" >
+					</div>
+
+					</doublecolslide>
+
+					<hstitle class="fragment"
+					data-fragment-index="1"> Oligopolistic Competition </hstitle>
+					<p class="l fragment"
+					data-fragment-index="1"> Suppliers are profit maximizer strategic players</p>
+						<img src="imgs/op/MCP_animated.svg" class="fragment" data-fragment-index="1" width="60%" style="border: 0pt solid black;" >
+
+					</section>
+				</section>
+					
+				
+				<section>
+					<htitle>Results: <br> Perfect vs Imperfect Competition </htitle>
+					<p>
+						Repeatedly increased the number of agents of a type, without increasing the total capacity of the type.
+					</p>
+
+					<doublecolslide>
+						
+						<div class="r-stack c1" width="70%" >
+							<img src="imgs/res/c_1_wotext.svg" class="fragment fade-in-then-out"
+							data-fragment-index="0"
+							width="100%" style="border: 0pt solid black;" >
+							<img src="imgs/res/c_2_wotext.svg" class="fragment fade-in-then-out" 
+							data-fragment-index="1"
+							width="100%">
+							<img src="imgs/res/c_3_wotext.svg" data-fragment-index="2" class="fragment fade-in-then-out" width="100%">
+							<img src="imgs/res/converge.svg" class="fragment fade-in" width="100%">
+						</div>
+
+						<div class="c1" width="20%">
+							<ul style="font-size: 14pt;">
+								<li class="fragment" data-fragment-index="0"> 
+									Reduction of consumer surplus in oligopolistic competition.
+								</li>
+								<li class="fragment" data-fragment-index="1"> 
+									Market power reduces as the number of agents increases.
+								</li>
+								<li class="fragment" data-fragment-index="2"> 
+									Producer surplus significantly increases with oligopolistic competition.
+								</li>
+							</ul>
+
+						</div>
+					</doublecolslide>
+						<p class="fragment">
+								Thermal-Electric LEMs are <mark>not</mark> immune to abuse of market power. 
+					</p>
+				</section>
+					<section>
+						<htitle>Market Power Mitigation Strategies</htitle>
+						
+						<h7>Seler of Last Resort (SLR)</h7>
+						<p class="l">
+							Adding a regulated agent that can place an unlimited supply bid at a fixed regulated price.
+						</p>
+						<div class="fragment">
+
+						<h7>Diversification</h7>
+						<p class ="l"> Diversifying the local energy mix by adding new agent types. </p>
+						<img src="imgs/Mitgation/div.svg" width="60%" style="border: 0pt solid black;" >
+						</div>
+					</section>
+					
+				</section>
+
+				<section>
+					<htitle>Results: <br> Mitigation Strategies</htitle>					
+					<section>
+						<doublecolslide style="margin: 15pt">
+							<div class="r-stack c1" style="width: 65%;"> 
+								<img src="imgs/res/welfare_Compare_CS.svg" class="fragment" data-fragment-index="1" width="100%" style="border: 0pt solid black;" >
+								<img src="imgs/res/welfare_Compare_PS.svg" class="fragment" data-fragment-index="2"  width="100%">
+							</div>
+							<div class="c1" style="width: 35%;">
+								<ul style="font-size: 14pt;">
+									<li class="fragment" data-fragment-index="1">
+										Both strategies increase consumer surplus, however, SLR is significantly more efficient.
+									</li>
+									<li class="fragment" data-fragment-index="2">
+										SLR reduces producer surplus and market efficiency.
+									</li>
+									<li class="fragment" data-fragment-index="2">
+										Diversification increases market efficiency and producer surplus.
+									</li>
+								</ul>
+							</div>
+						
+						</doublecolslide>
+						<p class="fragment"> 
+							The energy mix impacts the market power of the agents.
+						</p>
+					</section>
+				</section>
+
+				<section>
+					<htitle>Outlook</htitle>
+					<ul style="font-size: 24pt">
+						<li class="fragment">
+							Thermo-electric LEMs are highly susceptible to market manipulation, which should be considered in the design of such markets.
+						</li>
+						<li class="fragment">
+							A well-chosen mix of technologies in an LEM can contribute to avoiding abuse of market power.
+						</li>
+						<li class="fragment">
+							What is the energy mix that best mitigates market power?
+						</li>
+					</ul>
+				</section>
+
+
+<section>
+				
+				<div style="position: absolute; top: -10%;
+  			right: 0; border:10px;">
+					<img src="./imgs/tuda_logo.svg" height="100" >
+				</div>
+				
+				<hTitle>Thank you!</hTitle>
+				<!--
+
+					<p>This presentation
+						<br>
+						<a  href="https://jp-barbosa.github.io/RevealGT4EM/">
+							https://jp-barbosa.github.io/RevealGT4EM/
+						</a>
+					</p>
+					<img src="imgs/QR.svg" height="150">
+					
+					
+					<p>Contact:
+						<br>
+						<a  href="mailto:julia.barbosa@eins.tu-darmstadt.de">
+							julia.barbosa@eins.tu-darmstadt.de</a>
+							<br>
+							<a href="malito:mail@juliabarbosa.net">
+								mail@juliabarbosa.net
+							</a>
+							
+						</p>
+						
+					</div>
+							</mark>
+							</mark>
+							</mark>
+							</mark>
+							</mark>
+							</mark>
+							</mark>
+					
+							</mark>
+							</mark>
+							</mark>
+							</mark>
+							</mark>
+							</mark>
+			-->
+		</section>		
+
+			</div>
+		</div>
+
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script src="plugin/math/math.js"></script>
+		
+		<script src="plugin/animate/plugin.js"></script>
+		<script src="plugin/animate/svg.min.js"></script>
+		
+
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize({
+				hash: true,
+				slideNumber: 'c/t',
+				showSlideNumber: 'all',
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [RevealMarkdown, RevealHighlight, RevealNotes, RevealMath.KaTeX],
+			
+				
+			});
+			Reveal.configure({ pdfMaxPagesPerSlide: 1 });
+
+		</script>
+	</body>
+</html>
