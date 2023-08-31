@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="161.8167mm"
+   height="58.616573mm"
+   viewBox="0 0 161.8167 58.616573"
+   version="1.1"
+   id="svg42749"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="MCP_3.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview42751"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.28"
+     inkscape:cx="163.67188"
+     inkscape:cy="-6.640625"
+     inkscape:window-width="2560"
+     inkscape:window-height="1373"
+     inkscape:window-x="2551"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid42870"
+       visible="false"
+       originx="-18.304098"
+       originy="-137.37921" />
+  </sodipodi:namedview>
+  <defs
+     id="defs42746">
+    <rect
+       x="-99.180843"
+       y="-79.22851"
+       width="840"
+       height="390"
+       id="rect49605" />
+    <rect
+       x="80"
+       y="465"
+       width="290"
+       height="135"
+       id="rect43139" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-18.304097,-137.37921)">
+    <g
+       id="g43238"
+       inkscape:label="QP 1"
+       transform="translate(2.7498793,16.38405)">
+      <path
+         style="fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.78248;stroke-linecap:round;stroke-miterlimit:3.8;stroke-dasharray:3.125, 0.781249;stroke-opacity:0.968182;paint-order:markers stroke fill;stop-color:#000000"
+         d="m 92.578125,578.90625 v -14.0625 H 200.78125 308.98438 v 14.0625 14.0625 H 200.78125 92.578125 Z"
+         id="path44485"
+         transform="matrix(0.26458333,0,0,0.26458333,-2.7498793,-16.38405)"
+         inkscape:label="color" />
+      <g
+         id="g43409"
+         inkscape:label="box"
+         transform="matrix(0.75262015,0,0,1.0007503,5.3077474,-0.11552329)"
+         style="stroke-dasharray:none">
+        <rect
+           style="fill:none;fill-opacity:0.698039;fill-rule:evenodd;stroke:#131313;stroke-width:0.239777;stroke-linecap:round;stroke-miterlimit:3.8;stroke-dasharray:none;stroke-opacity:0.968182;paint-order:markers stroke fill;stop-color:#000000"
+           id="rect42924-8"
+           width="76.754387"
+           height="42.226055"
+           x="21.519897"
+           y="132.84955" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
+           d="m 21.532508,140.79967 h 76.729166 v 0 0 0 0"
+           id="path43084-0" />
+        <rect
+           style="fill:none;fill-opacity:0.698039;fill-rule:evenodd;stroke:#131313;stroke-width:0.264999;stroke-linecap:round;stroke-miterlimit:3.8;stroke-dasharray:none;stroke-opacity:0.968182;paint-order:markers stroke fill;stop-color:#000000"
+           id="rect43086-1"
+           width="71.4375"
+           height="6.614583"
+           x="24.178343"
+           y="143.4455" />
+        <rect
+           style="fill:none;fill-opacity:0.698039;fill-rule:evenodd;stroke:#131313;stroke-width:0.212655;stroke-linecap:round;stroke-miterlimit:3.8;stroke-dasharray:none;stroke-opacity:0.968182;paint-order:markers stroke fill;stop-color:#000000"
+           id="rect43088-8"
+           width="71.489845"
+           height="14.471925"
+           x="24.15217"
+           y="156.64851" />
+      </g>
+      <g
+         id="g43351"
+         inkscape:label="text stuff"
+         style="display:inline">
+        <g
+           id="g43430" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="49.947239"
+           y="138.44987"
+           id="text43098-0"><tspan
+             sodipodi:role="line"
+             id="tspan43096-0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.264583"
+             x="49.947239"
+             y="138.44987">QP problem of agent 1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="41.010418"
+           y="148.16667"
+           id="text43102-9"><tspan
+             sodipodi:role="line"
+             id="tspan43100-8"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.264583"
+             x="41.010418"
+             y="148.16667">Maximize profit</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:'Stafford Pro';-inkscape-font-specification:'Stafford Pro';text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="35.71875"
+           y="154.78125"
+           id="text43106-2"><tspan
+             sodipodi:role="line"
+             id="tspan43104-9"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.264583"
+             x="35.71875"
+             y="154.78125">subject to:</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;stroke-width:0.264583"
+           x="29.00012"
+           y="163.53262"
+           id="text43102-4-0"><tspan
+             id="tspan43100-7-0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="29.00012"
+             y="163.53262"
+             sodipodi:role="line">Supplier 1 Agent Model</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="29.00012"
+             y="168.82428"
+             sodipodi:role="line"
+             id="tspan43135-7">Market energy balance</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g43628"
+       transform="translate(110.30115,-0.5420355)"
+       inkscape:label="Dots"
+       style="display:inline;fill:#617dc2;stroke:#000000">
+      <circle
+         style="fill:#617dc2;fill-opacity:0.698039;fill-rule:evenodd;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-miterlimit:3.8;stroke-dasharray:1.05833, 0.264583;stroke-opacity:0.968182;paint-order:markers stroke fill;stop-color:#000000"
+         id="path43536"
+         cx="-21.27071"
+         cy="170.88866"
+         r="1.5" />
+      <circle
+         style="fill:#617dc2;fill-opacity:0.698039;fill-rule:evenodd;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-miterlimit:3.8;stroke-dasharray:1.05833, 0.264583;stroke-opacity:0.968182;paint-order:markers stroke fill;stop-color:#000000"
+         id="path43536-8"
+         cx="-12.516939"
+         cy="170.88866"
+         r="1.5" />
+      <circle
+         style="fill:#617dc2;fill-opacity:0.698039;fill-rule:evenodd;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-miterlimit:3.8;stroke-dasharray:1.05833, 0.264583;stroke-opacity:0.968182;paint-order:markers stroke fill;stop-color:#000000"
+         id="path43536-87"
+         cx="-3.7631681"
+         cy="170.88866"
+         r="1.5" />
+    </g>
+    <g
+       id="g43238-7"
+       inkscape:label="QP n"
+       transform="translate(116.52071,-0.54203551)"
+       style="display:inline">
+      <path
+         style="display:inline;fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.78248;stroke-linecap:round;stroke-miterlimit:3.8;stroke-dasharray:3.125, 0.781249;stroke-opacity:0.968182;paint-order:markers stroke fill;stop-color:#000000"
+         d="m 430.07813,578.90625 v -14.0625 h 108.20312 108.20313 v 14.0625 14.0625 H 538.28125 430.07813 Z"
+         id="path44488"
+         transform="matrix(0.26458333,0,0,0.26458333,-116.52071,0.54203551)"
+         inkscape:label="colot" />
+      <g
+         id="g43351-2"
+         inkscape:label="text stuff"
+         style="display:inline">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="36.497356"
+           y="138.43129"
+           id="text43098-0-1"
+           transform="translate(-11.027348,16.944672)"><tspan
+             sodipodi:role="line"
+             id="tspan43096-0-5"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.264583"
+             x="36.497356"
+             y="138.43129">QP problem of agent <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic'"
+   id="tspan43534">n</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="27.560535"
+           y="148.14809"
+           id="text43102-9-6"
+           transform="translate(-11.027348,16.944672)"><tspan
+             sodipodi:role="line"
+             id="tspan43100-8-0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.264583"
+             x="27.560535"
+             y="148.14809">Maximize profit</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:'Stafford Pro';-inkscape-font-specification:'Stafford Pro';text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="22.268867"
+           y="154.76266"
+           id="text43106-2-3"
+           transform="translate(-11.027348,16.944672)"><tspan
+             sodipodi:role="line"
+             id="tspan43104-9-0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.264583"
+             x="22.268867"
+             y="154.76266">subject to:</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;stroke-width:0.264583"
+           x="2.5417891"
+           y="180.45871"
+           id="text43102-4-0-9"><tspan
+             id="tspan43100-7-0-4"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="2.5417891"
+             y="180.45871"
+             sodipodi:role="line">Suppliers <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic'"
+   id="tspan55060">n</tspan> Agent Model</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;stroke-width:0.264583"
+             x="2.5417891"
+             y="185.75037"
+             sodipodi:role="line"
+             id="tspan43135-7-2">Market energy balance</tspan></text>
+      </g>
+      <g
+         id="g43409-3"
+         inkscape:label="box"
+         transform="matrix(0.75262015,0,0,1.0007503,-19.169482,16.810562)"
+         style="stroke-dasharray:none">
+        <rect
+           style="fill:none;fill-opacity:0.698039;fill-rule:evenodd;stroke:#131313;stroke-width:0.239777;stroke-linecap:round;stroke-miterlimit:3.8;stroke-dasharray:none;stroke-opacity:0.968182;paint-order:markers stroke fill;stop-color:#000000"
+           id="rect42924-8-1"
+           width="76.754387"
+           height="42.226055"
+           x="21.519897"
+           y="132.84955" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+           d="m 21.532508,140.79967 h 76.729166 v 0 0 0 0"
+           id="path43084-0-0" />
+        <rect
+           style="fill:none;fill-opacity:0.698039;fill-rule:evenodd;stroke:#131313;stroke-width:0.264999;stroke-linecap:round;stroke-miterlimit:3.8;stroke-dasharray:none;stroke-opacity:0.968182;paint-order:markers stroke fill;stop-color:#000000"
+           id="rect43086-1-3"
+           width="71.4375"
+           height="6.614583"
+           x="24.178343"
+           y="143.4455" />
+        <rect
+           style="fill:none;fill-opacity:0.698039;fill-rule:evenodd;stroke:#131313;stroke-width:0.212655;stroke-linecap:round;stroke-miterlimit:3.8;stroke-dasharray:none;stroke-opacity:0.968182;paint-order:markers stroke fill;stop-color:#000000"
+           id="rect43088-8-8"
+           width="71.489845"
+           height="14.471925"
+           x="24.15217"
+           y="156.64851" />
+      </g>
+    </g>
+    <g
+       id="g43837"
+       inkscape:label="EPBOx"
+       transform="matrix(1,0,0,1.0049964,0,-0.9782551)"
+       style="display:inline">
+      <path
+         style="display:inline;fill:#617dc2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.213901;stroke-linecap:round;stroke-miterlimit:3.8;stroke-dasharray:0.854257, 0.213564;stroke-opacity:0.968182;paint-order:markers stroke fill;stop-color:#000000"
+         d="m 18.531216,145.40206 c -0.0057,-0.0603 -0.01038,-1.64176 -0.01038,-3.51415 0,-1.87237 0.0047,-3.602 0.01038,-3.8436 0.01036,-0.43849 0.152284,-0.43927 80.686778,-0.43927 h 80.676396 l 0.0111,0.54909 c 0.006,0.302 0.0111,1.58685 0.0111,2.85525 0,1.26839 -0.005,2.80034 -0.0111,3.40433 l -0.0111,1.09818 H 99.217994 c -44.372016,0 -80.681068,-0.0494 -80.686778,-0.10983 z"
+         id="path44493"
+         inkscape:label="color" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 18.520833,145.52083 H 179.91666 v 0"
+         id="path43670" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583"
+         x="96.572922"
+         y="142.87503"
+         id="text43098-8"><tspan
+           sodipodi:role="line"
+           id="tspan43096-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.264583"
+           x="96.572922"
+           y="142.87503">Equilibrium Problem (EP)</tspan></text>
+      <rect
+         style="display:inline;fill:none;fill-opacity:0.698039;fill-rule:evenodd;stroke:#131313;stroke-width:0.408244;stroke-linecap:round;stroke-miterlimit:3.8;stroke-dasharray:none;stroke-opacity:0.968182;paint-order:markers stroke fill;stop-color:#000000"
+         id="rect42924-8-9-1"
+         width="161.40845"
+         height="58.208328"
+         x="18.508219"
+         y="137.58333" />
+    </g>
+    <g
+       id="g43238-2-3"
+       inkscape:label="KKTn"
+       transform="translate(89.057017,17.793029)"
+       style="display:none;fill:#ffffff">
+      <rect
+         style="opacity:1;fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:#131313;stroke-width:0.209;stroke-linecap:round;stroke-miterlimit:3.8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.968182;paint-order:markers stroke fill;stop-color:#000000"
+         id="rect42924-8-9-0"
+         width="58.220947"
+         height="42.226055"
+         x="24.172037"
+         y="131.53925" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:1.25;font-family:'Stafford Pro';-inkscape-font-specification:'Stafford Pro';text-align:center;text-anchor:middle;white-space:pre;inline-size:53.9877;display:inline;fill:#131313;stroke-width:0.264583"
+         x="58.574177"
+         y="150.06007"
+         id="text43106-2-5-3"
+         transform="translate(-5.2917085)"><tspan
+           x="58.574177"
+           y="150.06007"
+           id="tspan3066"><tspan
+   style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+   id="tspan3064">Optimality Conditions of</tspan><tspan
+   y="150.06007"
+   id="tspan3068"> </tspan></tspan><tspan
+           x="58.574177"
+           y="155.41055"
+           id="tspan3076"><tspan
+             style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+             id="tspan3070">Supplier </tspan><tspan
+             style="font-style:italic;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic'"
+             id="tspan3072">n</tspan><tspan
+             style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+             id="tspan3074"> Problem</tspan></tspan></text>
+    </g>
+    <g
+       id="g43238-2"
+       inkscape:label="KKT 1"
+       transform="translate(-0.37214916,17.793029)"
+       style="display:none;fill:#ffffff">
+      <rect
+         style="fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:#131313;stroke-width:0.208831;stroke-linecap:round;stroke-miterlimit:3.8;stroke-dasharray:none;stroke-opacity:0.968182;paint-order:markers stroke fill;stop-color:#000000"
+         id="rect42924-8-9"
+         width="58.220947"
+         height="42.226055"
+         x="24.172037"
+         y="131.53925" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:1.25;font-family:'Stafford Pro';-inkscape-font-specification:'Stafford Pro';text-align:center;text-anchor:middle;white-space:pre;inline-size:47.6377;display:inline;fill:#131313;stroke-width:0.264583"
+         x="58.574177"
+         y="150.06007"
+         id="text43106-2-5"
+         transform="translate(-5.2917085)"><tspan
+           x="58.574177"
+           y="150.06007"
+           id="tspan3080"><tspan
+   style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+   id="tspan3078">Optimality Conditions</tspan><tspan
+   y="150.06007"
+   id="tspan3082"> </tspan></tspan><tspan
+           x="58.574177"
+           y="155.41055"
+           id="tspan3086"><tspan
+             style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+             id="tspan3084">of Supplier 1 Problem</tspan></tspan></text>
+    </g>
+    <g
+       id="g43238-2-8"
+       inkscape:label="MCP Title"
+       transform="translate(26.086184,101.93053)"
+       style="display:none;fill:#ffffff">
+      <rect
+         style="fill:#617dc2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0862841;stroke-linecap:round;stroke-miterlimit:3.8;stroke-dasharray:none;stroke-opacity:0.968182;paint-order:markers stroke fill;stop-color:#000000"
+         id="rect42924-8-9-16"
+         width="79.311737"
+         height="5.2916684"
+         x="32.153778"
+         y="36.711128" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:1.25;font-family:'Stafford Pro';-inkscape-font-specification:'Stafford Pro';text-align:center;text-anchor:middle;white-space:pre;inline-size:148.179;display:inline;fill:#131313;stroke-width:0.264583"
+         x="58.574177"
+         y="150.06007"
+         id="text43106-2-5-6"
+         transform="translate(11.771989,-109.07427)"><tspan
+           x="58.574177"
+           y="150.06007"
+           id="tspan3090"><tspan
+             style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+             id="tspan3088">Mixed complementarity problem (MCP)</tspan></tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,18.304097,137.37921)"
+       id="text49603"
+       style="font-size:20px;line-height:1.25;font-family:'Stafford Pro';-inkscape-font-specification:'Stafford Pro';text-align:center;white-space:pre;shape-inside:url(#rect49605);display:inline" />
+  </g>
+</svg>
